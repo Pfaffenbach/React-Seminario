@@ -18,19 +18,19 @@ Para entender o que está sendo feito nos códigos é necessário atender aos se
 
 Para instalar as depencias, utilize o seguinte comando:
 ```
-npm install
+yarn install
 ```
 
 ## ☕ Rodando projeto e fazendo testes
 
 Para rodar o projeto, utilize o seguinde comando:
 ```
-npm start
+yarn start
 ```
 
 Para fazer testes no projeto, utilize o seguinde comando:
 ```
-npm test
+yarn test
 ```
 
 ## 🤝 Colaboradores
