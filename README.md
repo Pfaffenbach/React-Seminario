@@ -33,7 +33,7 @@ Para fazer testes no projeto, utilize o seguinde comando:
 npm test
 ```
 
-## 🤝 Colaborador
+## 🤝 Colaboradores
 
 <table>
   <tr>
@@ -55,7 +55,7 @@ npm test
     </td>
 </table>
 
-## Contato
+## Contatos
 Contato | Endereço
 ------------ | -------------
 <img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> | erich.silveira@ges.inatel.br
