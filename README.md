@@ -16,7 +16,7 @@ Para entender o que está sendo feito nos códigos é necessário atender aos se
 
 ## 🚀 Instalando dependencias
 
-Para instalar as depencias, siga esta etapa:
+Para instalar as depencias, utilize o seguinte comando:
 ```
 npm install
 ```
