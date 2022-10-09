@@ -14,6 +14,25 @@ Para entender o que está sendo feito nos códigos é necessário atender aos se
 * Pode ser utilizado qualquer Sistema Operacional `<Windows / Linux / Mac>`;
 * Ter conhecimento básico sobre: `<JavaScript / NodeJS / React>`;
 
+## 🚀 Instalando dependencias
+
+Para instalar as depencias, siga esta etapa:
+```
+npm install
+```
+
+## ☕ Rodando projeto e fazendo testes
+
+Para rodar o projeto, utilize o seguinde comando:
+```
+npm start
+```
+
+Para fazer testes no projeto, utilize o seguinde comando:
+```
+npm test
+```
+
 ## 🤝 Colaborador
 
 <table>
