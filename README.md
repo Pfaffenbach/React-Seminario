@@ -45,6 +45,14 @@ npm test
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://avatars.githubusercontent.com/u/12284353?v=4" width="100px;" alt="Foto do Ítalo Moura no GitHub"/><br>
+        <sub>
+          <b>Ítalo Moura</b>
+        </sub>
+      </a>
+    </td>
 </table>
 
 ## Contato
